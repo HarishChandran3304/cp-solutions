@@ -1,3 +1,5 @@
+test noobie
+
 # Row Column Pairing of matrices
 
 Given two matrices m1 , m2 and a capacity 'C', write a code to obtain a matrix m3 after row-column pairing. Row - column paring is an operation in which the elements in the matrix1 are paired rowwise with elements of matrix2 columnwise to obtain a matrix m3. m3[i][j] is the count of elements of ith row when added with corressponding (column index of element in matrix1 is same as row index of element in matrix2) elements of jth column is less than or equal to capacity C.
